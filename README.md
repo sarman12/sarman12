@@ -5,12 +5,23 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarman12" alt="sarman12" /></a> </p>
 
+- 🌱 I’m currently learning **Express js**
+
+- 👨‍💻 All of my projects are available at [https://s-arman.netlify.app/](https://s-arman.netlify.app/)
+
+- 💬 Ask me about **react**
+
+- 📫 How to reach me **sahaneearman601@gmail.com**
+
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sahanee arman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sahanee arman" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sahanee arman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahanee arman" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sahaneearman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sahaneearman" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/s_arman10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="s_arman10" height="30" width="40" /></a>
+
 <a href="https://www.leetcode.com/s arman10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="s arman10" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/s_arman12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="s_arman12" height="30" width="40" /></a>
 </p>
