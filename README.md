@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sahanee Arman</h1>
 <h3 align="center">
-  A passionate Full Stack MERN Developer from India, building fast and scalable web applications with clean code and modern design. Enthusiastic about machine learning and agentic AI, with hands-on experience in developing intelligent systems and integrating AI into real-world applications.
+  A passionate Full Stack MERN Developer from India, building fast and scalable web applications with clean code and modern design. Enthusiastic about machine learning and agentic AI, with hands-on experience in developing intelligent systems, leveraging LangGraph for orchestrating AI workflows, and integrating intelligent solutions into real-world applications.
 </h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarman12&label=Profile%20views&color=0e75b6&style=flat" alt="sarman12" /> </p>
 
